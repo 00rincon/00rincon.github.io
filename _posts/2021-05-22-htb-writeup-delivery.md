@@ -7,7 +7,7 @@ classes: wide
 header:
   teaser: /assets/images/htb-writeup-delivery/delivery_logo.png
   teaser_home_page: true
-  icon: /assets/images/tryhackme.webp
+  icon: /assets/images/thm.webp
 categories:
   - TryHackMe
   - CTF
