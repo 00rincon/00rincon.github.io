@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes@4.15.1"
-minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "es-es"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Rincón"
   avatar           : "/assets/images/avatar.png"
-  bio              : "Pentester, CTF player<br>"
+  bio              : "Junior Pentester, CTF player<br>"
   location         : "Spain"
   email            : "amrincon2003@gmail.com"
   uri              :
@@ -120,7 +120,7 @@ author:
   keybase          : 
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         :  "https://www.linkedin.com/in/miguel-%C3%A1ngel-rinc%C3%B3n-bueno-5443b3222/?originalSubdomain=es"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
@@ -207,7 +207,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  #- jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -216,7 +216,7 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  #- jekyll-feed
   - jemoji
 
 
