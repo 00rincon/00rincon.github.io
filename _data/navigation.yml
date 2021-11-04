@@ -1,9 +1,9 @@
 main:
-  - title: "Inicio"
+  - title: "Home"
     url: /
   - title: "Posts"
     url: /year-archive/
-  - title: "Categorias"
+  - title: "Categorías"
     url: /categories/
   - title: "Etiquetas"
     url: /tags/
