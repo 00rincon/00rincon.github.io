@@ -1,7 +1,7 @@
 ---
 title: "Sobre mí"
 permalink: /about/
-layout: single
+layout: default
 date: 2021-11-15
 ---
 Bienvenidos a mi web personal, me llamo Miguel Ángel Rincón y tengo 18 años actualmente soy residente en Córdoba (España) y aquí encontrareis un pequeño proyecto donde veréis información acerca de Seguridad Informática, redes, entre otros...
