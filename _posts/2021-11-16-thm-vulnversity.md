@@ -147,7 +147,7 @@ Vemos que ya tenemos la reverse shell. Asi que vamos a buscar alguna flag en el 
 
 ![](/assets/images/thm-vulnversity/13.JPG)
 
-## Privilege Escalation 
+## 4-Privilege Escalation 
 
 Ahora vamos a escalar privilegios, en la misma actividad nos hace referencia a los permisos SUID así que vamos a utilizar el comando: find / -user root -perm -4000 -exec ls -ldb {} \; para buscar todos los binarios que podemos utilizar.
 
