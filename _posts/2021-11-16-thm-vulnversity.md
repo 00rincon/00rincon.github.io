@@ -23,9 +23,7 @@ tags:
 
 Vulnversity , maquina catalogada de dificultad “easy”, basada en reconocimiento, busqueda de directorios, web y escalación de privilegios!
 
-Como es una seccion de aprendizaje, mientras vamos resolviendo la maquina vamos a ir respondiendo una seríe de preguntas que os voy a ir dejando.
-
-## 1-Reconnaissance 
+## 1-Escaneo Nmap
 
 Iniciamos la maquina y hacemos un escaneo con Nmap básico: nmap -sC -sV 10.10.89.245
 
@@ -106,7 +104,7 @@ Vemos que nos devuelve bastantes puertos abiertos. Nos quedaremos con el puerto 
 
 ![](/assets/images/thm-vulnversity/2.JPG)
 
-## 2-Locating directories using GoBuster 
+## 2-Fuzzing con gobuster 
 
 Ahora vamos a hacer un escaneo con gobuster, vemos que tenemos varios directorios, el que más nos interesa es el de “internal”
 
@@ -114,7 +112,7 @@ Ahora vamos a hacer un escaneo con gobuster, vemos que tenemos varios directorio
 
 ![](/assets/images/thm-vulnversity/4.JPG)
 
-## 3-Compromise the webserver
+## 3-Comprometiendo al servidor
 
 Vemos que encontramos una pagina de carga de archivos, aquí podemos intentar subir algún archivo para obtener una reverse shell y así obtener acceso a la maquina, para comprobar si tiene algún filtro voy a intentar subir un archivo aleatorio con la extension .txt y vemos que nos lo bloquea, esto nos indica de que posiblemente estaremos frente a una lista blanca en el backend.
 
@@ -146,7 +144,7 @@ Vemos que ya tenemos la reverse shell. Asi que vamos a buscar alguna flag en el 
 
 ![](/assets/images/thm-vulnversity/13.JPG)
 
-## 4-Privilege Escalation 
+## 4-Escalación de privilegios
 
 Ahora vamos a escalar privilegios, en la misma actividad nos hace referencia a los permisos SUID así que vamos a utilizar el comando: find / -user root -perm -4000 -exec ls -ldb {} \; para buscar todos los binarios que podemos utilizar.
 
