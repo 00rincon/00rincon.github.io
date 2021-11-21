@@ -10,13 +10,12 @@ header:
   icon: /assets/images/thm.webp
 categories:
   - TryHackMe
-  - Aprender
 tags:  
   - Linux
-  - Recon
-  - Easy
-  - privesc
+  - recon
   - webappsec
+  - privesc
+  - Easy
   
 ---
 
