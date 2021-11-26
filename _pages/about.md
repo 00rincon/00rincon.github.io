@@ -29,6 +29,6 @@ Perfil TryHackMe: [Enlace](https://tryhackme.com/p/rincon)
 ## Certificaciones Cisco Networking Academy
 
 Introducción a la ciberseguridad.
-![rincon_cisco](cisco1.png)
+![rincon_cisco](/assets/images/certificaciones/cisco1.png)
 
 Espero que les guste mi contenido y aprendamos todos un poco más cada día, añadir que continuamente estoy actualizando la pagína web y estoy totalmente abierto a sugerencias, comentarios... podeis contactarme por vía gmail: amrincon2003@gmail.com o por telegram @Zrincon
