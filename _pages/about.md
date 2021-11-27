@@ -31,4 +31,7 @@ Perfil TryHackMe: [Enlace](https://tryhackme.com/p/rincon)
 Introducción a la ciberseguridad.
 ![rincon_cisco](/assets/images/certificados/cisco1.png)
 
+NDG Linux Unhatched. (Introducción a CLI Linux)
+![rincon_cisco](/assets/images/certificados/cisco3.png)
+
 Espero que les guste mi contenido y aprendamos todos un poco más cada día, añadir que continuamente estoy actualizando la pagína web y estoy totalmente abierto a sugerencias, comentarios... podeis contactarme por vía gmail: amrincon2003@gmail.com o por telegram @Zrincon
