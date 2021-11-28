@@ -24,7 +24,7 @@ Me considero una persona autodidacta y amante del mundo de la informática, con 
 
 En el mundo de la ciberseguridad llevo relativamente poco tiempo comenze el 17 de Octubre de 2021, aunque siempre me ha llamado la atención, actualmente para estudiar de manera autodidacta estoy trabajando principalmente en la plataforma TryHackMe y en un futuro cuando adquiera una base consistente continuare también con HackTheBox, además estoy formandome con cursos gratuitos de Cisco y algunos de pago como el de introducción a la ciberseguridad de s4vitar, entre otra multitud de cursos.
 
-Perfil TryHackMe: ![rincon_cisco](/assets/images/certificados/thm.png)[Enlace](https://tryhackme.com/p/rincon)
+Perfil TryHackMe: ![rincon_cisco](<script src="https://tryhackme.com/badge/409985"></script>)
 
 
 ## Certificaciones Cisco Networking Academy
