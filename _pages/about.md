@@ -26,7 +26,7 @@ En el mundo de la ciberseguridad llevo relativamente poco tiempo comenze el 17 d
 
 Perfil TryHackMe: [Enlace](https://tryhackme.com/p/rincon)
 
-![rincon_cisco](https://tryhackme-badges.s3.amazonaws.com/rincon.png)
+![rincon_cisco](/assets/images/certificados/thm.png)
 
 
 ## Certificaciones Cisco Networking Academy
