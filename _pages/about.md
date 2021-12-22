@@ -26,12 +26,9 @@ En el mundo de la ciberseguridad llevo relativamente poco tiempo comenze el 17 d
 
 Perfil TryHackMe: [Enlace](https://tryhackme.com/p/rincon)
 
-![rincon_cisco](/assets/images/certificados/thm.png)
-
-
 ## Certificaciones Cisco Networking Academy
 
-Introducción a la ciberseguridad.
+Introducción a la Seguridad Cibernética.
 ![rincon_cisco](/assets/images/certificados/cisco1.png)
 
 NDG Linux Unhatched.
