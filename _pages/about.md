@@ -31,6 +31,9 @@ Perfil TryHackMe: [Enlace](https://tryhackme.com/p/rincon)
 Introducción a la Seguridad Cibernética.
 ![rincon_cisco](/assets/images/certificados/cisco1.png)
 
+Cybersecurity Essentials
+![rincon_cisco](/assets/images/certificados/cisco2.jpg)
+
 NDG Linux Unhatched.
 ![rincon_cisco](/assets/images/certificados/cisco3.png)
 
