@@ -39,7 +39,7 @@ NDG Linux Unhatched.
 
 ## Certificaciones TryHackMe
 
-Beginner Learning Path
+Beginner Learning Path.
 ![rincon_thm](/assets/images/certificados/thm1.JPG)
 
 Espero que les guste mi contenido y aprendamos todos un poco más cada día, añadir que continuamente estoy actualizando la pagína web y estoy totalmente abierto a sugerencias, comentarios... podeis contactarme por vía gmail: amrincon2003@gmail.com o por telegram @Zrincon
