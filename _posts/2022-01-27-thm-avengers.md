@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Avengers - Try Hack Me
-excerpt: Avengers catalogada de dificultad “Easy” en esta ocasion nos enfrentaremos a enumeracion de diferentes servicios, además de realizar un ataque sql injection y Remote code execution.
+excerpt: Avengers, maquina catalogada de dificultad “Easy” en esta ocasion nos enfrentaremos a enumeracion de diferentes servicios, además de realizar un ataque sql injection y Remote code execution.
 date: 2022-01-27
 classes: wide
 header:
@@ -21,7 +21,7 @@ tags:
 
 ![](/assets/images/thm-avengers/1.JPG)
 
-Avengers catalogada de dificultad “Easy” en esta ocasion nos enfrentaremos a enumeracion de diferentes servicios, además de realizar un ataque sql injection y Remote code execution.
+Avengers, maquina catalogada de dificultad “Easy” en esta ocasion nos enfrentaremos a enumeracion de diferentes servicios, además de realizar un ataque sql injection y Remote code execution.
 
 ## 1-Escaneo Nmap y enumeración de puertos.
 
