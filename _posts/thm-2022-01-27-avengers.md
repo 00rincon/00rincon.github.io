@@ -119,11 +119,11 @@ Es el valor de una cookie que hace refencia a la primera flag, es la misma cooki
 
 ![](/assets/images/thm-avengers/6.JPG)
 
-![](/assets/images/thm-avengers/10.JPG)
-
 La segunda flag la encontraremos en el encabezado de la petición HTTP. Si nos vamos a la consola de desarrollador , pulsando Ctrl + Shift + C , en el apartado de red , seleccionamos la última petición GET y vemos el contenido de la flag.
 
 ![](/assets/images/thm-avengers/7.JPG)
+
+![](/assets/images/thm-avengers/10.JPG)
 
 Para seguir enumerando la página web, vamos a utilizar la herramienta gobuster para realizar fuzzing a los directorios.
 
