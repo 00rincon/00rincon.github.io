@@ -185,7 +185,7 @@ Tenemos un RCE para poder ejecutar comandos, vamos a intentar poner alguno.
 
 Vemos que tenemos algunos filtros, vamos a intentar evasionarlos utilizando diferentes técnicas.
 
-ls nos deja utilizarlo, por lo cual vamos a intentar listar el contenido de /etc/passwd
+"ls" nos deja utilizarlo, por lo cual vamos a intentar listar el contenido de /etc/passwd
 
 ![](/assets/images/thm-avengers/a.JPG)
 
@@ -216,6 +216,7 @@ Aqui tenemos la quinta flag.
 Recordemos que teniamos un puerto 21 abierto, el servicio FTP, la propia actividad nos da un usuario y contraseña para utilizar y enumerar.
 
 User:groot
+
 Pass:iamgroot
 
 Utilizaremos -> ftp 10.10.78.136 , para conectarnos y proporcionamos las credenciales.
