@@ -2,7 +2,7 @@
 layout: single
 title: Mustacchio - Try Hack Me
 excerpt: Mustacchio maquina catalogada de dificultad “Easy” en esta ocasion nos enfrentaremos a un trabajo de enumeración, además ganaremos acceso a la maquina mediande la vulnerabilidad xxe y escalaremos privilegios.
-date: 2022-01-14
+date: 2022-02-25
 classes: wide
 header:
   teaser: /assets/images/thm-mustacchio/1.jpg
