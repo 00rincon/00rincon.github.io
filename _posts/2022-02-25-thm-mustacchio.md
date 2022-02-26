@@ -225,7 +225,7 @@ Una vez descifrada vamos a intentar conectarnos
 
 Ahora sí, ya vemos la flag del usuario.
 
-## 3-Escalación de privilegios.
+## 4-Escalación de privilegios.
 
 Si recordamos antes en el /etc/passwd , vimos otro usuario llamado joe, vamos a ver su directorio personal.
 
