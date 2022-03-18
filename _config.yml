@@ -112,7 +112,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "/assets/images/rincon_thm.png"
+  facebook         : 
   foursquare       :
   github           : "00rincon"
   gitlab           :
@@ -131,7 +131,7 @@ author:
   weibo            :
   xing             :
   youtube          :  "https://www.youtube.com/channel/UCI9U3Q_q4khCVxgbtoahzbQ"
-  thm              :  "/assets/images/rincon_thm.png"
+  thm              :  "https://tryhackme.com/p/rincon"
 
 
 # Reading Files
