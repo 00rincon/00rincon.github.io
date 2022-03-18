@@ -5,8 +5,6 @@ main:
     url: /year-archive/
   - title: "Categorías"
     url: /categories/
-  - title: "Redes"
-    url: /redes/
   - title: "Etiquetas"
     url: /tags/
   - title: "Sobre mí"
