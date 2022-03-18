@@ -8,4 +8,6 @@ main:
   - title: "Etiquetas"
     url: /tags/
   - title: "Sobre mí"
-    url: /about/
+    url: /about/  
+  - title: "Redes"
+    url: /redes/
