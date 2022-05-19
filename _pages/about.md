@@ -28,6 +28,9 @@ Perfil TryHackMe: [Enlace](https://tryhackme.com/p/rincon)
 
 ## Certificaciones Cisco Networking Academy
 
+CCNAv7: Introducción a Redes.
+![rincon_cisco](/assets/images/certificados/cisco0.jpg)
+
 Introducción a la Seguridad Cibernética.
 ![rincon_cisco](/assets/images/certificados/cisco1.png)
 
