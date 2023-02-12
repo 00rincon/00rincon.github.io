@@ -2,7 +2,7 @@
 layout: single
 title: Agent Sudo - Try Hack Me
 excerpt: Agent Sudo maquina catalogada de dificultad “Easy” basada en enumerar la maquina y estar pendiente a todas las pistas que se nos dan, además de utilizar diferentes técnicas de fuerza bruta, estenografia y por ultimo una escalaciión de privilegios sencillita. Vamos a ello! 
-date: 2023-02-12
+date: 02-12-2023
 classes: wide
 header:
   teaser: /assets/images/thm-agentsudo/1.PNG
