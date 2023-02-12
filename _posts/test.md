@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Pickle Rick - Try Hack me
+title: Pickle Rickkkk - Try Hack me
 excerpt: "Pickle rick, maquina Linux basada en Dirbuster y linux, este es mi primer reto
           CTF, ¡vamos a ver la solución del mismo!"
 date: 2021-11-03
