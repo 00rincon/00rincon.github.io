@@ -1,8 +1,8 @@
 ---
 layout: single
 title: Agent Sudo - Try Hack Me
-excerpt: Agent Sudo maquina catalogada de dificultad “Easy” basada en la escalacion de privilegios en sistemas windows, en esta ocasión nos aprovecharemos de la vulnerabilidad Unquoted Service Path. Vamos a ello! 
-date: 2023-11-02
+excerpt: Agent Sudo maquina catalogada de dificultad “Easy” basada en enumerar la maquina y estar pendiente a todas las pistas que se nos dan, además de utilizar diferentes técnicas de fuerza bruta, estenografia y por ultimo una escalaciión de privilegios sencillita. Vamos a ello! 
+date: 2023-12-02
 classes: wide
 header:
   teaser: /assets/images/thm-agentsudo/1.PNG
@@ -21,7 +21,7 @@ tags:
 
 ![](/assets/images/thm-agentsudo/1.PNG)
 
-Steel Mountain maquina catalogada de dificultad “Easy” basada en la escalacion de privilegios en sistemas windows, en esta ocasión nos aprovecharemos de la vulnerabilidad Unquoted Service Path en español conocida como espacios en las rutas, a continuación veremos de que trata!
+Agent Sudo maquina catalogada de dificultad “Easy” basada en enumerar la maquina y estar pendiente a todas las pistas que se nos dan, además de utilizar diferentes técnicas de fuerza bruta, estenografia y por ultimo una escalaciión de privilegios sencillita. Vamos a ello! 
 
 ## 1-Escaneo Nmap.
 
